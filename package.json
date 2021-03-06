@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chokidar": "^3.5.1",
+    "execa": "^5.0.0",
+    "readline": "^1.3.0",
+    "tree-kill": "^1.2.2"
+  },
+  "name": "knok",
+  "description": "The 21st century file execution.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squikjs/knok.git"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "cli",
+    "exec",
+    "child_process",
+    "npm",
+    "execa",
+    "file"
+  ],
+  "author": "squik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squikjs/knok/issues"
+  },
+  "bin": {
+    "knok": "index.js"
+  },
+  "homepage": "https://github.com/squikjs/knok#readme"
+}
